@@ -1,0 +1,16 @@
+{
+  "name": "orangehrmcypressframeword",
+  "version": "1.0.0",
+  "description": "This is my Orange HRM project framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "Cypress test cases"
+  },
+  "author": "Pratik",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.1",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
